@@ -20,9 +20,8 @@
   "main": "./lib/underscore.string",
   "repository": {
     "type": "git",
-    "url": "https://github.com/epeli/underscore.string.git"
+    "url": "https://github.com/janmonschke/underscore.string.git"
   },
-  "_id": "underscore.string@2.3.1",
   "main": "./lib/underscore.string.js",
   "gitHead": "6495496c1a8d86e4065d360c480f56f7e3a28a04"
 }
